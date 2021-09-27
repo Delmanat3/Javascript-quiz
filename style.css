@@ -1,0 +1,30 @@
+.header{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+.container{
+    
+    position: relative;
+    
+}
+
+.answersandthings{
+    position: relative;
+    top: 400px;
+    left: 420px;
+}
+
+.figureitout{
+    position: relative;
+    left:440px;
+}
+
+
+footer{
+    display: flex;
+   
+   
+  
+    
+}
